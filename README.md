@@ -7,4 +7,4 @@ LC-HRMS data was processed using open-source algorithms to generate a dataset wi
 
 This project provides an end-to-end solution for the automatic estimation of the pollution potential of the major contributing rivers (Dnieper and Danube) in the Black Sea.
 
-The datasets and the predicted spatial distribution are visualized in an interactive dash application, which is available at https://cecinbs.herokuapp.com/
+The datasets and the predicted spatial distribution are visualized in an interactive dash application, which is available at https://norman-data.eu/BS/
